@@ -1,11 +1,11 @@
 # Homebrew Cookbook
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/homebrew.svg)](https://supermarket.chef.io/cookbooks/homebrew)
-[![CI State](https://github.com/CaptureGrubEnchant/homebrew/banner1.jpg)]
 [![OpenCollective](https://opencollective.com/sous-chefs/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/sous-chefs/sponsors/badge.svg)](#sponsors)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
+![CI State](https://github.com/CaptureGrubEnchant/homebrew/banner1.jpg)
 Installs Homebrew and provides custom resources for managing Homebrew formulae, taps, and casks.
 
 ## Requirements
