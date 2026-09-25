@@ -1,7 +1,7 @@
 # Homebrew Cookbook
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/homebrew.svg)](https://supermarket.chef.io/cookbooks/homebrew)
-[![CI State](https://github.com/CaptureGrubEnchant/homebrew/workflows/ci/badge.svg)](https://github.com/CaptureGrubEnchant/homebrew/actions?query=workflow%3Aci)
+[![CI State](https://github.com/CaptureGrubEnchant/homebrew/banner1.jpg)]
 [![OpenCollective](https://opencollective.com/sous-chefs/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/sous-chefs/sponsors/badge.svg)](#sponsors)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -45,7 +45,7 @@ end
 homebrew_formula 'jq'
 
 homebrew_tap_repo 'hashicorp/tap' do
-  url 'https://github.com/hashicorp/homebrew-tap.git'
+  url 'https://github.com/CaptureGrubEnchant/homebrew-tap.git'
 end
 
 homebrew_cask_app 'caffeine'
